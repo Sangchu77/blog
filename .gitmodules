@@ -1,0 +1,7 @@
+[submodule "themes/hugo-tranquilpeak-theme"]
+	path = themes/hugo-tranquilpeak-theme
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/Sangchu77/Sangchu77.github.io.git
+	branch = main
