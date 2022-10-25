@@ -18,7 +18,7 @@ defaultContentLanguage = "en-us"
 title = "Sangchu's Devlog"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "G-R0B72FLCN4"
 paginate = 7
 canonifyurls = true
 
